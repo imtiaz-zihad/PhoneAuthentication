@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "229864850038",
+    "project_id": "sms-verification-930f2",
+    "storage_bucket": "sms-verification-930f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229864850038:android:1a802522b1201137be5557",
+        "android_client_info": {
+          "package_name": "com.myprojectall.phoneauthentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZzwt3NuRdJce1QX969hPIrVWOYcpYSJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
